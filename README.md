@@ -13,3 +13,6 @@
 
 ## String
 - No repeated characters in the string at all: [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## BinaryTree
+- One of the trees is empty: [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
