@@ -1,6 +1,8 @@
 # leetCodeEdgeCases
 - [Arrays](#arrays)
-- 
+- [LinkedList](#linkedlist)
+- [String](#string)
+- [BinaryTree](#binarytree)
 
 ## Arrays
 - All negative/All postive arrays: [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
